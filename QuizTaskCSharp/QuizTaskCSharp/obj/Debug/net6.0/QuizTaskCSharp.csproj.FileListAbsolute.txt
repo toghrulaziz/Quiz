@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\bin\Debug\net6.0\QuizTaskCSharp.exe
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\bin\Debug\net6.0\QuizTaskCSharp.deps.json
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\bin\Debug\net6.0\QuizTaskCSharp.runtimeconfig.json
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\bin\Debug\net6.0\QuizTaskCSharp.dll
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\bin\Debug\net6.0\QuizTaskCSharp.pdb
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.dll
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\refint\QuizTaskCSharp.dll
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.pdb
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\QuizTaskCSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\Quiz\QuizTaskCSharp\QuizTaskCSharp\obj\Debug\net6.0\ref\QuizTaskCSharp.dll
